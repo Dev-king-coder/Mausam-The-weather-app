@@ -32,4 +32,3 @@
 1. Clone the repository.
 2. Open the project in your IDE.
 3. Run the app on your device or emulator.
-===
