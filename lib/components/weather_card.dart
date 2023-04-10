@@ -34,7 +34,7 @@ class _WeatherCardState extends State<WeatherCard> {
         widget.weatherDescription == "shower rain" ||
         widget.weatherDescription == "thunderstorm" ||
         widget.weatherDescription == "snow") {
-      switch (widget.weatherDescription!) {
+      switch (widget.weatherDescription) {
         case "clear sky":
           asset += "clear_sky_night.png";
           break;
