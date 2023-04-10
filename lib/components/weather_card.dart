@@ -27,7 +27,7 @@ class _WeatherCardState extends State<WeatherCard> {
     String? sunsetTime = widget.sunset?.substring(11, 13) ?? "0";
     int? sunset = int.parse(sunsetTime);
     String asset = "lib/assets/images/";
-    if (time > sunset ||
+    if (time >= sunset ||
         widget.weatherDescription == "broken clouds" ||
         widget.weatherDescription == "scattered clouds" ||
         widget.weatherDescription == "mist" ||
