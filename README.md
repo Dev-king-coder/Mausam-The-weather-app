@@ -22,10 +22,10 @@
 ===
 ## Screenshots
 ### Some screenshots of the app are shown below:
-![Screenshot 1](screenshots\page-1.jpg)
-![Screenshot 2](screenshots\g-sign.jpg)
-![Screenshot 3](screenshots\page-2.jpg)
-![Screenshot 4](screenshots\page-3.jpg)
+![Screenshot 1](screenshots/page-1.jpg)
+![Screenshot 2](screenshots/g-sign.jpg)
+![Screenshot 3](screenshots/page-2.jpg)
+![Screenshot 4](screenshots/page-3.jpg)
 ===
 ## How to run the app
 ### To run the app, follow the steps below:
