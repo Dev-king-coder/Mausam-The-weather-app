@@ -1,6 +1,6 @@
 # Mausam
 "Mausam" is a weather application built with Flutter/dart and Firebase. It uses the OpenWeatherMap API to fetch the weather data. It also uses Firebase for google-oauth. The app is currently in development and is not yet fully developed.
-===
+---
 ## Assigned Tasks
 - [x] Create a new flutter weather app project.
 - [x] Add google-oauth to the app using firebase.
@@ -14,7 +14,7 @@
 - [x] Give a unique title to app.
 - [x] Add a unique icon/logo to the app.
 - [ ] Add a splash screen to the app.
-===
+---
 ## How to run the app
 ### To run the app, follow the steps below:
 1. Clone the repository.
